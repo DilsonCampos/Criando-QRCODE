@@ -1,2 +1,2 @@
 # Criando-QRCODE
-Para criar um QRCodeVamos trabalhar com a biblioteca em Python 'qrcode'
+Para criar um QRCode vamos ter  que trabalhar com a biblioteca "qrcode" em Python.
